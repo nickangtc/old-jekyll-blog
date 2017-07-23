@@ -1,6 +1,6 @@
 ---
 id: 644
-title: 'A writer's tool for project two'
+title: A writer's tool for project two
 date: 2016-09-16T10:45:00+00:00
 author: Nick Ang
 layout: post
@@ -16,11 +16,11 @@ tags:
 
 Week 6 of web development school is coming up! That means we’re going to build stuff - yay!
 
-I’m particularly excited about this coming week’s project. We’ll have from tomorrow (Friday) to next Thursday to start and complete to an extent a full-stack web application. The point is to create a web-based application that demonstrates our understanding of front-end web technologies (HTML, CSS, JavaScript) and back-end technologies and frameworks (Node.js + Express, Postgres SQL), and how to hook them up nicely to do useful stuff for us/other people. 
+I’m particularly excited about this coming week’s project. We’ll have from tomorrow (Friday) to next Thursday to start and complete to an extent a full-stack web application. The point is to create a web-based application that demonstrates our understanding of front-end web technologies (HTML, CSS, JavaScript) and back-end technologies and frameworks (Node.js + Express, Postgres SQL), and how to hook them up nicely to do useful stuff for us/other people.
 
 For someone who hasn’t built a full-stack application before, this is a tremendous opportunity for me to make mistakes, learn, and flex my brainpower. It’s going to be great.
 
-And for the first time in a long time, I’ve actually decided beforehand on the project I’ll put myself to work on. It isn’t something I’ve always dreamt of making since I was kid, but it is something I care about creating for myself to use, and so to me, that counts as a good project to commit some time to working on. Definitely beats working on a project _just_ as an exercise that’s for sure. 
+And for the first time in a long time, I’ve actually decided beforehand on the project I’ll put myself to work on. It isn’t something I’ve always dreamt of making since I was kid, but it is something I care about creating for myself to use, and so to me, that counts as a good project to commit some time to working on. Definitely beats working on a project _just_ as an exercise that’s for sure.
 
 ## The problem to try to solve
 
@@ -34,16 +34,16 @@ Another problem in the post-creative phase of writing I’ve found is that when 
 
 ## What I’ll be working on for project week
 
-So I’ve come up with a potential solution. I think it will work for me, and I’ll only be focusing on catering it to my needs for this now, to keep things manageable. 
+So I’ve come up with a potential solution. I think it will work for me, and I’ll only be focusing on catering it to my needs for this now, to keep things manageable.
 
 Here’s the idea. Create a dashboard that, based on a single search input, pulls articles from around the web and displays them in so-called cards. A little bit like what Oscar Otero did with his [jQuery cheatsheet](https://oscarotero.com/jquery/), but with a different presentation.
 
 Each card will contain a title and a text snippet of the article, and clicking on it will launch an in-page window with the full, original article (eg. from Wikipedia) from which I can browse and extract information. These cards are laid out across a single browser page to provide a quick overview of the articles relevant to my blog post.
 
-For added convenience, each card also comes with a short text input field that I can use to copy the original article’s URL and paste into my blog post. Hitting a ‘favourite’ button also saves the link to my account for later, periodic use. 
+For added convenience, each card also comes with a short text input field that I can use to copy the original article’s URL and paste into my blog post. Hitting a ‘favourite’ button also saves the link to my account for later, periodic use.
 
-There are also a number of other features that I’d love to have but won’t be able to create in just a week. One of the most useful would be an algorithm that automatically appends internal blog links to my newest, yet to be published blog post on my behalf. That’d be fantastic. Alas, I am only a novice programmer and I shall be realistic. 
+There are also a number of other features that I’d love to have but won’t be able to create in just a week. One of the most useful would be an algorithm that automatically appends internal blog links to my newest, yet to be published blog post on my behalf. That’d be fantastic. Alas, I am only a novice programmer and I shall be realistic.
 
-With that, on this humid Thursday evening, I’m laying my mind to rest about the project. Tomorrow is project brief day. For now, I have other things (like how to integrate user authentication to my server) to think about… 
+With that, on this humid Thursday evening, I’m laying my mind to rest about the project. Tomorrow is project brief day. For now, I have other things (like how to integrate user authentication to my server) to think about…
 
 (image: [Bench Accounting](https://unsplash.com/@benchaccounting))

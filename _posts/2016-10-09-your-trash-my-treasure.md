@@ -1,6 +1,6 @@
 ---
 id: 708
-title: 'Treasure! That's just what you are'
+title: Treasure! That's just what you are
 date: 2016-10-09T22:06:16+00:00
 author: Nick Ang
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1024
-title: 'What it's like building app features in 2017'
+title: What it's like building app features in 2017
 date: 2017-05-21T20:37:31+00:00
 author: Nick Ang
 layout: post
@@ -11,9 +11,9 @@ categories:
 tags:
   - technical
 ---
-First of all let me admit, I wasn't there to witness what it was like to build web/mobile app features before 2016, since I only became a web developer last year. 
+First of all let me admit, I wasn't there to witness what it was like to build web/mobile app features before 2016, since I only became a web developer last year.
 
-That said, seeing that the open source movement really only picked up amazing momentum in the past couple of years, I can imagine that it was much harder to build full-fledged features from the ground up till as late as early 2010s. That difficulty is also probably exacerbated by the less nimble management practices of tech companies (agile wha-?) and the overall economics of hiring developers to build software. 
+That said, seeing that the open source movement really only picked up amazing momentum in the past couple of years, I can imagine that it was much harder to build full-fledged features from the ground up till as late as early 2010s. That difficulty is also probably exacerbated by the less nimble management practices of tech companies (agile wha-?) and the overall economics of hiring developers to build software.
 
 But this is 2017, and I now have the vantage point of being a developer / software engineer that affords me some insights into what it's like building app features now.
 
@@ -29,4 +29,4 @@ More on the point about free, open source software available out there in 2017. 
 
 Now I know that I mentioned that I shipped this feature about half a week late, but just pause for a moment and appreciate how short that timeframe is. In less than a month, _one person_ was able to write the code that powers a Wix-like drag and drop editor for composing emails that all users of our product can make use of. While it's probably still buggy to some degree, it's definitely ready for use.
 
-This is the environment we operate in now. Regardless of what it was like building software before 2017, I'm grateful to be alive and contributing to the software industry now. The collaborative atmosphere in the software community doesn't just make me feel warm and fuzzy, it actually helps me do my job better! 
+This is the environment we operate in now. Regardless of what it was like building software before 2017, I'm grateful to be alive and contributing to the software industry now. The collaborative atmosphere in the software community doesn't just make me feel warm and fuzzy, it actually helps me do my job better!
