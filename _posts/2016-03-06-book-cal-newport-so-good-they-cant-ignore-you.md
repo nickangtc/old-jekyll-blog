@@ -1,6 +1,6 @@
 ---
 id: 69
-title: (Book Notes) Cal Newport's So Good They Can't Ignore You
+title: '(Book Notes) Cal Newport's So Good They Can't Ignore You'
 date: 2016-03-06T12:00:36+00:00
 author: Nick Ang
 layout: post
