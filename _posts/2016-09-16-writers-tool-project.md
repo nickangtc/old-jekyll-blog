@@ -1,6 +1,6 @@
 ---
 id: 644
-title: 'A writer&#8217;s tool for project two'
+title: 'A writer's tool for project two'
 date: 2016-09-16T10:45:00+00:00
 author: Nick Ang
 layout: post

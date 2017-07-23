@@ -1,6 +1,6 @@
 ---
 id: 661
-title: 'Spidey &#8211; the faster, less distracting way to do research online'
+title: 'Spidey: the faster, less distracting way to do research online'
 date: 2016-09-23T20:23:18+00:00
 author: Nick Ang
 layout: post

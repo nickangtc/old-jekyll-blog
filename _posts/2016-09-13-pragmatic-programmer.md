@@ -1,6 +1,6 @@
 ---
 id: 631
-title: 'Don&#8217;t code for code&#8217;s sake'
+title: 'Don&#8217;t code for code's sake'
 date: 2016-09-13T21:47:49+00:00
 author: Nick Ang
 layout: post

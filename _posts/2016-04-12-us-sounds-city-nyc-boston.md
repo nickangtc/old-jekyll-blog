@@ -1,6 +1,6 @@
 ---
 id: 280
-title: '(US) Sounds of The City &#8211; NYC to Boston'
+title: '(US) Sounds of The City: NYC to Boston'
 date: 2016-04-12T11:08:44+00:00
 author: Nick Ang
 layout: post

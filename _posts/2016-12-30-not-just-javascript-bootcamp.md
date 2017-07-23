@@ -1,6 +1,6 @@
 ---
 id: 847
-title: 'It&#8217;s not just JavaScript you&#8217;re learning at that Bootcamp'
+title: 'It's not just JavaScript you&#8217;re learning at that Bootcamp'
 date: 2016-12-30T22:50:16+00:00
 author: Nick Ang
 layout: post

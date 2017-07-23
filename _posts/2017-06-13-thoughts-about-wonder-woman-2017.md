@@ -1,6 +1,6 @@
 ---
 id: 1051
-title: 'A guy&#8217;s thoughts about Wonder Woman 2017'
+title: 'A guy's thoughts about Wonder Woman 2017'
 date: 2017-06-13T08:00:21+00:00
 author: Nick Ang
 layout: post

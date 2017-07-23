@@ -1,6 +1,6 @@
 ---
 id: 915
-title: 'General Assembly Singapore Review &#8211; Web Development Immersive'
+title: 'General Assembly Singapore Review: Web Development Immersive'
 date: 2017-03-12T23:13:36+00:00
 author: Nick Ang
 layout: post

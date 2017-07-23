@@ -1,6 +1,6 @@
 ---
 id: 192
-title: '(US) Free Upgrades &#038; Hello Brooklyn!'
+title: '(US) Free Upgrades and Hello Brooklyn!'
 date: 2016-04-06T11:43:03+00:00
 author: Nick Ang
 layout: post

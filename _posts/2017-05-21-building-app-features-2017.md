@@ -1,6 +1,6 @@
 ---
 id: 1024
-title: 'What it&#8217;s like building app features in 2017'
+title: 'What it's like building app features in 2017'
 date: 2017-05-21T20:37:31+00:00
 author: Nick Ang
 layout: post
