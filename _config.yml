@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nick Ang blog
-description: Human, programmer and thinker
+description: Musings of a programmer with no CS background
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nickang.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nickang
@@ -22,9 +22,22 @@ github_username:  nickangtc
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 theme: minima
 plugins:
   - jekyll-feed
+
+# Set <!--more--> as exerpt_separator
+excerpt_separator: <!--more-->
+
+# Filtering Content
+show_drafts: null
+# limit_posts: 5
+future:      false
+unpublished: false
+
+paginate: 5
+paginate_path: "/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

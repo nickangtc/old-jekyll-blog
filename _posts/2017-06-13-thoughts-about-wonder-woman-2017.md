@@ -14,9 +14,9 @@ tags:
 ---
 **Warning**, I'm going to be sharing my thoughts about Wonder Woman, so spoilers ahead. Please skip this post if you haven't watched the DC movie. (It is in my opinion worth your time, so please don't let me spoil it for you!)
 
-<img src="http://www.nickang.com/wp-content/uploads/2017/06/WWbattlefieldpicture-1024x683.jpg" alt="Wonder Woman in the battlefield" width="840" height="560" class="aligncenter size-large wp-image-1055" />
-
 <!--more-->
+
+<img src="http://www.nickang.com/wp-content/uploads/2017/06/WWbattlefieldpicture-1024x683.jpg" alt="Wonder Woman in the battlefield" width="840" height="560" class="aligncenter size-large wp-image-1055" />
 
 _Whoa, she's so badass!_
 
