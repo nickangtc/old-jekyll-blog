@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Nick Ang blog
 description: Musings of a programmer with no CS background
+logo: /assets/nickang-logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nickang.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nickang
@@ -24,20 +25,26 @@ github_username:  nickangtc
 markdown: kramdown
 highlighter: rouge
 theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
+  - jekyll-watch
+  - jekyll-seo-tag
 
 # Set <!--more--> as exerpt_separator
 excerpt_separator: <!--more-->
 
 # Filtering Content
 show_drafts: null
-# limit_posts: 5
 future:      false
 unpublished: false
 
+# Pagination
 paginate: 5
 paginate_path: "/page:num/"
+
+# Social
+twitter:
+  username: nickang
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

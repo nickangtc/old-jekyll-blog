@@ -1,6 +1,7 @@
 ---
 id: 915
 title: 'General Assembly Singapore Review: Web Development Immersive'
+description: "My honest General Assembly Singapore review. In this post I bring you through my journey as a WDI student..."
 date: 2017-03-12T23:13:36+00:00
 author: Nick Ang
 layout: post
@@ -54,7 +55,7 @@ So it was with that seed in my head that I enrolled in WDI to Become Technical (
 
 We’ll go into the juicy details about the course very soon. Right now, let’s talk briefly about the company that is making things happen.
 <h2>General Assembly Singapore</h2>
-[caption id="attachment_934" align="aligncenter" width="840"]<img class="size-large wp-image-934" src="http://www.nickang.com/wp-content/uploads/2017/03/IMG_20161021_124948-1024x768.jpg" alt="my classmates at general assembly" width="840" height="630" /> Me and my fun-loving classmates on the way to refuel our brains with food.[/caption]
+<img class="size-large wp-image-934" src="http://www.nickang.com/wp-content/uploads/2017/03/IMG_20161021_124948-1024x768.jpg" alt="my classmates at general assembly" width="840" height="630" /> Me and my fun-loving classmates on the way to refuel our brains with food.
 
 <a href="https://generalassemb.ly/">General Assembly</a> is a US-based education company. I’m not sure why the founder chose to name it after that important congregation of people in the United Nations, but I’m guessing it shares similar reasoning with why JavaScript has “Java” in its name. Anyway, they set up the Singapore branch relatively recently, perhaps less than 2 years ago. The Web Development Immersive is one of their first running courses here.
 
@@ -112,7 +113,9 @@ To be at least capable in developing simple websites and sophisticated web appli
 </ul>
 It's best to bear in mind that this list will change significantly in a matter of months, especially in the tech industry where a newfangled library gets adopted by the community <i>every few months</i>. Ultimately, what matters is that we learn how to learn. That way we can add or remove things to our tool belt.
 <h2>What it’s like being a WDI student</h2>
-[caption id="attachment_936" align="alignnone" width="840"]<img class="wp-image-936 size-large" src="http://www.nickang.com/wp-content/uploads/2017/03/WDI-7-collage-2017-1024x682.jpg" alt="collage of student experiences at general assembly singapore" width="840" height="559" /> Super smart WDI batch 7, with whom I had the good fortune of being a teaching assistant.[/caption]
+<img class="wp-image-936 size-large" src="http://www.nickang.com/wp-content/uploads/2017/03/WDI-7-collage-2017-1024x682.jpg" alt="collage of student experiences at general assembly singapore" width="840" height="559" />
+
+^ Super smart WDI batch 7, with whom I had the good fortune of being a teaching assistant.
 
 WDI is not for the half hearted. I don't say this with glee but with concern. To be able to graduate as an employable full stack web developer, you will need to get your life in order before the course even begins, because it is going to be intense. And this probably shouldn’t come as a surprise, since 3 months of training is not exactly very long for the basis of a new career.
 
@@ -164,7 +167,7 @@ My answer is an overwhelming “yes”. Even if you had to pay full price for it
 <h3>IMDA’s TIPP subsidy programme</h3>
 At the time of writing, Singaporeans get a heavy subsidy from the Infocomm Media Development Authority (IMDA) when enrolling in the Web Development Immersive, purportedly to encourage more people to take the leap into the technology industry. From their <a href="https://portal.imda.gov.sg/Sub/Talent/Professional-Development/Tech-Immersion-and-Placement">website</a>:
 
-&gt; TIPP is an initiative by IMDA to convert non-ICT professionals, especially graduates from Science, Technology, Engineering and Math (STEM) background or other disciplines into industry ready ICT professionals and placed into tech roles, after undergoing a short, intensive and immersive training courses delivered by industry practitioners.
+> TIPP is an initiative by IMDA to convert non-ICT professionals, especially graduates from Science, Technology, Engineering and Math (STEM) background or other disciplines into industry ready ICT professionals and placed into tech roles, after undergoing a short, intensive and immersive training courses delivered by industry practitioners.
 
 As a Singaporean, you will likely only need to pay somewhere around $5,500 instead of $12,000, and there’s almost no paper work required on your part. But nothing is free - so be prepared to work for the subsidy. There are post-graduation requirements that you will need to meet to fully qualify for the subsidy, like finding employment in the tech industry within a few months of graduation (it might be 3 months if I’m not mistaken). Great perk, but you have to work for it.
 <h3>Cost vs Benefits of investing in WDI</h3>
