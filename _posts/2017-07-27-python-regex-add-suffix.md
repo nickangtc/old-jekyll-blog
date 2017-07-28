@@ -56,4 +56,4 @@ Additional notes:
 - [See it in action on repl](https://repl.it/JlLS)
 - [Python regex documentation](https://docs.python.org/2/library/re.html)
 
-[1]: https://ecommerce.shopify.com/c/ecommerce-design/t/very-important-please-read-new-image-sizes-supported-up-to-2048x2048-for-retina-support-110766
+[1]: https://help.shopify.com/themes/liquid/filters/url-filters#size-parameters
