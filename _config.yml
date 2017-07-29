@@ -28,7 +28,6 @@ theme: minima
 plugins_dir:
   - jekyll-feed
   - jekyll-watch
-  - jekyll-seo-tag
 
 # Set <!--more--> as exerpt_separator
 excerpt_separator: <!--more-->
