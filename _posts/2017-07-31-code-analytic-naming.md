@@ -11,7 +11,11 @@ tags:
   - code quality
 ---
 
+Code analytic time!
+
 Today I saw something like this in the code base at work. No I'm not sharing the actual code but it's a good enough representation:
+
+<!--more-->
 
 ```py
 import pandas
