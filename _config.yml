@@ -38,7 +38,7 @@ future:      false
 unpublished: false
 
 # Pagination
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 
 # Social
