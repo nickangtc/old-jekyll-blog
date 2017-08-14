@@ -12,9 +12,7 @@ tags:
   - technology
 ---
 
-# Training your users to do the right thing
-
-<picture>
+![the dashboard of a Mitsubishi Mirage car with eco mode indicator on](/assets/images/driving_eco_mode.jpg)
 
 I was in Perth, Australia this weekend with Mei and we drove around in a small blue Mitsubishi Mirage hatchback. It had a manual transmission, which did take a day to get used to... but as we drove from cafe to restaurant (food was the one of the main reasons for the trip), I noticed the green eco indicator on the car dashboard. Food was on my mind, so I let that observation take a back seat. You know, in my blue Mitsubishi Mirage.
 
