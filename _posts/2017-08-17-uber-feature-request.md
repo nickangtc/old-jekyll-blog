@@ -11,8 +11,6 @@ tags:
   - technology
 ---
 
-# Uber feature request
-
 Hello imaginary Uber product manager, if I may, I have a feature requests as a frequent user of your product. This is related to safety.
 
 ![man driving behind wheel](/assets/images/driving_min.jpg)
