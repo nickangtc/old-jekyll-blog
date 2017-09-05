@@ -13,13 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nick Ang blog
-description: Musings of a programmer with no CS background
+title: Nick Ang
+description: tech, society, living
 logo: /assets/nickang-logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nickang.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nickang
 github_username:  nickangtc
+
+# Global author info
+author: Nick Ang
 
 # Build settings
 markdown: kramdown
@@ -28,8 +31,9 @@ theme: minima
 plugins_dir:
   - jekyll-feed
   - jekyll-watch
+  - jekyll-seo-tag
 
-# Set <!--more--> as exerpt_separator
+# Exerpt_separator
 excerpt_separator: <!--more-->
 
 # Filtering Content
@@ -44,6 +48,14 @@ paginate_path: "/page:num/"
 # Social
 twitter:
   username: nickang
+
+social:
+  name: Nick Ang
+  links:
+    - https://twitter.com/nickang/
+    - https://www.instagram.com/nickangtc/
+    - https://medium.com/@nickang
+    - https://github.com/nickangtc
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

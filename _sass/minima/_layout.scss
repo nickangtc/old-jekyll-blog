@@ -181,11 +181,17 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  text-transform: uppercase;
+
+  &p {
+    margin-bottom: 0;
+  }
 }
 
 .post-link {
   display: block;
   font-size: 24px;
+  line-height: $base-line-height * 0.8;
 }
 
 
